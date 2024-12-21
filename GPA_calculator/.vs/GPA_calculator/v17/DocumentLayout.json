@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06595AF5-1E90-42A3-A09A-D06BADC4AC40}|GPA_calculator\\GPA_calculator.csproj|d:\\downloads\\2nd sem 2 stage lecture slide\\gui\\gui project (c#)\\gpa_calculator\\gpa_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06595AF5-1E90-42A3-A09A-D06BADC4AC40}|GPA_calculator\\GPA_calculator.csproj|solutionrelative:gpa_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06595AF5-1E90-42A3-A09A-D06BADC4AC40}|GPA_calculator\\GPA_calculator.csproj|D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\gpa_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06595AF5-1E90-42A3-A09A-D06BADC4AC40}|GPA_calculator\\GPA_calculator.csproj|solutionrelative:gpa_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06595AF5-1E90-42A3-A09A-D06BADC4AC40}|GPA_calculator\\GPA_calculator.csproj|D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\gpa_calculator\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06595AF5-1E90-42A3-A09A-D06BADC4AC40}|GPA_calculator\\GPA_calculator.csproj|solutionrelative:gpa_calculator\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GPA_calculator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPA_calculator",
+              "DocumentMoniker": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\GPA_calculator\\GPA_calculator.csproj",
+              "RelativeDocumentMoniker": "GPA_calculator\\GPA_calculator.csproj",
+              "ToolTip": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\GPA_calculator\\GPA_calculator.csproj",
+              "RelativeToolTip": "GPA_calculator\\GPA_calculator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-07T14:30:05.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\GPA_calculator\\Calculate.cs",
+              "RelativeDocumentMoniker": "GPA_calculator\\Calculate.cs",
+              "ToolTip": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\GPA_calculator\\Calculate.cs",
+              "RelativeToolTip": "GPA_calculator\\Calculate.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAIwL4AAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:53:15.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\GPA_calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "GPA_calculator\\Form1.cs",
+              "ToolTip": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\GPA_calculator\\Form1.cs",
+              "RelativeToolTip": "GPA_calculator\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowE4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:53:15.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\GPA_calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "GPA_calculator\\Form1.cs",
+              "ToolTip": "D:\\Downloads\\2nd sem 2 stage lecture slide\\GUI\\GUI project (C#)\\GPA_calculator\\GPA_calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "GPA_calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:53:15.656Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

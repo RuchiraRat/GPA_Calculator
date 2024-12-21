@@ -1,0 +1,42 @@
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe.config
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.pdb
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.AssemblyReference.cache
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.Form1.resources
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.Properties.Resources.resources
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.GenerateResource.cache
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.CoreCompileInputs.cache
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.exe
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.pdb
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe.manifest
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.application
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.exe.manifest
+D:\User\edu\DSE-NIBM\GUI project\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.application
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe.config
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe.manifest
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.application
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.pdb
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.AssemblyReference.cache
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.Form1.resources
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.Properties.Resources.resources
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.GenerateResource.cache
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.CoreCompileInputs.cache
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.exe.manifest
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.application
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.exe
+E:\User\Project\Computer programming\C#\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.pdb
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe.config
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe.manifest
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.application
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.exe
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\bin\Debug\GPA_calculator.pdb
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.AssemblyReference.cache
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.Form1.resources
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.Properties.Resources.resources
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.GenerateResource.cache
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.csproj.CoreCompileInputs.cache
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.exe.manifest
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.application
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.exe
+D:\Downloads\2nd sem 2 stage lecture slide\GUI\GUI project (C#)\GPA_calculator\GPA_calculator\obj\Debug\GPA_calculator.pdb
